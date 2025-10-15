@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apollo Hospital",
+    "address": "123 Main St, City",
+    "contact": "+91-1234567890",
+    "distanceKm": 2.5
+  },
+  {
+    "name": "Global Health Clinic",
+    "address": "456 Park Ave, City",
+    "contact": "+91-9876543210",
+    "distanceKm": 4.1
+  },
+  {
+    "name": "Sunrise Medical Center",
+    "address": "789 Lake Rd, City",
+    "contact": "+91-1122334455",
+    "distanceKm": 5.8
+  }
+]
